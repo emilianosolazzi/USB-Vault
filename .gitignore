@@ -1,0 +1,14 @@
+# Local vault state
+.vault-device-id
+vault/seed.enc
+vault/seed.enc.bak
+vault/profiles.json
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local logs and temporary files
+*.log
+*.tmp
+usb_monitor_log.txt

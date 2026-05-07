@@ -1,0 +1,37 @@
+USB-VAULT WINDOWS INSTRUCTIONS
+==============================
+
+This folder is the Windows USB-Vault version.
+
+What to click
+-------------
+Double-click:
+
+  1-CLICK-THIS-ON-WINDOWS.bat
+
+This package is Windows-only.
+
+First run
+---------
+1. Click 1-CLICK-THIS-ON-WINDOWS.bat.
+2. Type I AGREE when prompted.
+3. Create your master password.
+4. Type a website/domain like gmail.com.
+5. Copy the generated password.
+
+Normal use
+----------
+1. Click 1-CLICK-THIS-ON-WINDOWS.bat.
+2. Enter your master password.
+3. Enter the same website/domain, username, version, and length.
+4. The same password is recreated.
+
+Important
+---------
+- Password typing is hidden. Nothing appears while you type.
+- Generated passwords are not stored.
+- profiles.json stores metadata only.
+- Back up vault\seed.enc to a separate secure place.
+- Lost master password or lost seed.enc cannot be recovered.
+
+Manual launch with 1-CLICK-THIS-ON-WINDOWS.bat is recommended.

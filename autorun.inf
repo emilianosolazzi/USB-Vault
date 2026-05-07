@@ -1,0 +1,5 @@
+[Autorun]
+label=USB Password Vault
+open=START_VAULT.bat
+action=Open USB Password Vault
+icon=%SystemRoot%\System32\shell32.dll,13

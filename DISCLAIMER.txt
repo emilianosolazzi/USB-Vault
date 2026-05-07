@@ -1,0 +1,36 @@
+USB-VAULT
+DISCLAIMER AND TERMS OF USE
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+1. NO LIABILITY
+   The authors and contributors of this software shall not be held liable
+   for any damages, data loss, or security breaches arising from its use.
+   You use this software entirely at your own risk.
+
+2. USER RESPONSIBILITY
+   - You are solely responsible for backing up your seed.enc file
+   - You are responsible for remembering your master password
+   - Lost master passwords CANNOT be recovered
+   - Lost seed.enc files CANNOT be recovered
+   - You are responsible for the physical security of your USB drive
+
+3. NO WARRANTIES
+   This software comes with no guarantees of:
+   - Security or cryptographic strength
+   - Compatibility with all systems
+   - Bug-free operation
+   - Password acceptance by third-party websites
+
+4. SECURITY NOTES
+   - The security of this system depends on your master password strength
+   - Compromising your seed can compromise all derived passwords
+   - Always verify you are running authentic software
+   - USB usage on untrusted computers increases risk
+
+5. ACCEPTANCE
+   By using this software, you acknowledge and accept all terms above.
+
+This file is for informational purposes only and is not legal advice.
